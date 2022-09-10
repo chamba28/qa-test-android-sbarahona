@@ -5,6 +5,16 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/qa-test-android-sbarahona/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/qa-test-android-sbarahona/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/qa-test-android-sbarahona/app/src/main/res/layout/content_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/qa-test-android-sbarahona/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

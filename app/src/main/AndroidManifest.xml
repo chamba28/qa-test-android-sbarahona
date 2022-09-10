@@ -54,6 +54,7 @@
                 android:name=".presentation.sections.register.RegisterActivity"
                 android:label="@string/title_activity_register"
                 android:screenOrientation="portrait"
+                android:exported="true"
                 android:theme="@style/AppTheme.NoActionBar.NoActionBar">
         </activity>
         <activity
